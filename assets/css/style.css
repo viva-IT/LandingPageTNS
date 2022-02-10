@@ -5,6 +5,10 @@
 * License: https://bootstrapmade.com/license/
 */
 
+:root {
+  color-scheme: light dark; /* both supported */
+}
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
