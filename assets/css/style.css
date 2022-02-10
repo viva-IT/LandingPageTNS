@@ -6,7 +6,7 @@
 */
 
 :root {
-  color-scheme: light only; /* both supported */
+  color-scheme: light dark; /* both supported */
 }
 
 /*--------------------------------------------------------------
@@ -1153,6 +1153,16 @@ section {
   }
   100% {
     transform: rotate(360deg);
+  }
+}
+
+.logoBig{
+  margin-left: 25%;
+}
+
+@media screen and (max-width: 600px) {
+  .logoBig{
+    margin-left: 0 !important;
   }
 }
 
