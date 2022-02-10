@@ -11,6 +11,8 @@
       /**var header = document.getElementById('header');
       header.style.filter = 'contrast(200%)';*/
     
+	  alert('Your are using Samsung browser');
+	
       var logo = document.getElementById('logo');
       logo.src = "assets/img/logo-dark-mode.png";
     
