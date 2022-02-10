@@ -7,7 +7,7 @@
 (function() {
 
   function updateStyleForSamsung() {
-	var isSamsungBrowser = navigator.userAgent.match(/SAMSUNG|Samsung|SGH-[I|N|T]|GT-[I|N]|SM-[A|N|P|T|Z]|SHV-E|SCH-[I|J|R|S]|SPH-L/i));
+	  var isSamsungBrowser = navigator.userAgent.match(/SAMSUNG|Samsung|SGH-[I|N|T]|GT-[I|N]|SM-[A|N|P|T|Z]|SHV-E|SCH-[I|J|R|S]|SPH-L/i);
     
       if (isSamsungBrowser) {
       /**var header = document.getElementById('header');
