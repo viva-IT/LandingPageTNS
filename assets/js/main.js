@@ -11,8 +11,11 @@
       /**var header = document.getElementById('header');
       header.style.filter = 'contrast(200%)';*/
     
-      if(navigator.userAgent.match(/SamsungBrowser/i)){
+      if (navigator.userAgent.match(/SamsungBrowser/i)) {
         alert('You are using Samsung browser!');
+      }
+      if (navigator.userAgent.match(/samsung/i)) {
+        alert('You are using Samsung browser!!');
       }
       alert('You are using Samsung browser');
       
