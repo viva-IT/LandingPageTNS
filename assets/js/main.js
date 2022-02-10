@@ -5,6 +5,18 @@
 * License: https://bootstrapmade.com/license/
 */
 (function() {
+
+  function updateStyleForSamsung() {
+    if (navigator.userAgent.match(/samsung/i)) {
+      var header = document.getElementById('header');
+      header.style.filter = 'contrast(200%)';
+    }
+  }
+
+  window.onload = function() {
+    updateStyleForSamsung();
+  };
+
   "use strict";
 
   /**
