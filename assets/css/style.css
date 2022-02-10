@@ -6,11 +6,7 @@
 */
 
 :root {
-  color-scheme: light only; /* both supported */
-}
-
-html {
-  color-scheme: light dark;
+  color-scheme: light dark; /* both supported */
 }
 
 /*--------------------------------------------------------------
