@@ -12,7 +12,7 @@
       header.style.filter = 'contrast(200%)';*/
     
       var logo = document.getElementById('logo');
-      logo.src = "assets/img/logo-dark-mode";
+      logo.src = "assets/img/logo-dark-mode.png";
     
     }
   }
