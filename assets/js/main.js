@@ -10,11 +10,12 @@
       if (navigator.userAgent.match(/SAMSUNG|Samsung|SGH-[I|N|T]|GT-[I|N]|SM-[A|N|P|T|Z]|SHV-E|SCH-[I|J|R|S]|SPH-L/i)) {
       /**var header = document.getElementById('header');
       header.style.filter = 'contrast(200%)';*/
-
-      alert('Welcome to Travelo n STAY');
       
       var logo = document.getElementById('header-logo');
       logo.src = "assets/img/logo-dark-mode.png";
+
+      var footerLogo = document.getElementById('footer-logo');
+      footerLogo.src = "assets/img/footer-logo-dark-mode.png";
     }
   }
 
