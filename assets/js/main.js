@@ -8,8 +8,12 @@
 
   function updateStyleForSamsung() {
     if (navigator.userAgent.match(/samsung/i)) {
-      var header = document.getElementById('header');
-      header.style.filter = 'contrast(200%)';
+      /**var header = document.getElementById('header');
+      header.style.filter = 'contrast(200%)';*/
+    
+      var logo = document.getElementById('logo');
+      logo.src = "assets/img/logo-dark-mode";
+    
     }
   }
 
