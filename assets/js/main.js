@@ -10,16 +10,10 @@
       if (navigator.userAgent.match(/SAMSUNG|Samsung|SGH-[I|N|T]|GT-[I|N]|SM-[A|N|P|T|Z]|SHV-E|SCH-[I|J|R|S]|SPH-L/i)) {
       /**var header = document.getElementById('header');
       header.style.filter = 'contrast(200%)';*/
-    
-      if (navigator.userAgent.match(/SamsungBrowser/i)) {
-        alert('You are using Samsung browser!');
-      }
-      if (navigator.userAgent.match(/samsung/i)) {
-        alert('You are using Samsung browser!!');
-      }
-      alert('You are using Samsung browser');
+
+      alert('Welcome to Travelo n STAY');
       
-      var logo = document.getElementById('logo');
+      var logo = document.getElementById('header-logo');
       logo.src = "assets/img/logo-dark-mode.png";
     }
   }
