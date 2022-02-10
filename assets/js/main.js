@@ -7,15 +7,16 @@
 (function() {
 
   function updateStyleForSamsung() {
-    if (navigator.userAgent.match(/samsung/i)) {
+	var isSamsungBrowser = navigator.userAgent.match(/SAMSUNG|Samsung|SGH-[I|N|T]|GT-[I|N]|SM-[A|N|P|T|Z]|SHV-E|SCH-[I|J|R|S]|SPH-L/i));
+    
+      if (isSamsungBrowser) {
       /**var header = document.getElementById('header');
       header.style.filter = 'contrast(200%)';*/
     
-	  alert('Your are using Samsung browser');
-	
+      alert('You are using Samsung browser');
+      
       var logo = document.getElementById('logo');
       logo.src = "assets/img/logo-dark-mode.png";
-    
     }
   }
 
