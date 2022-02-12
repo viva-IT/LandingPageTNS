@@ -11,11 +11,17 @@
       /**var header = document.getElementById('header');
       header.style.filter = 'contrast(200%)';*/
       
+      // Check dark mode
+      let isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+      // Set logo using white font
+      if(isDarkMode) {
       var logo = document.getElementById('header-logo');
       logo.src = "assets/img/logo-dark-mode.png";
 
       var footerLogo = document.getElementById('footer-logo');
       footerLogo.src = "assets/img/footer-logo-dark-mode.png";
+      }
     }
   }
 
