@@ -16,11 +16,15 @@
 
       // Set logo using white font
       if(isDarkMode) {
-      var logo = document.getElementById('header-logo');
-      logo.src = "assets/img/logo-dark-mode.png";
+        var logo = document.getElementById('header-logo');
+        logo.src = "assets/img/logo-dark-mode.png";
+        alert('Dark Mode');
 
-      var footerLogo = document.getElementById('footer-logo');
-      footerLogo.src = "assets/img/footer-logo-dark-mode.png";
+        var footerLogo = document.getElementById('footer-logo');
+        footerLogo.src = "assets/img/footer-logo-dark-mode.png";
+
+      } else {
+        alert('Light Mode');
       }
     }
   }
