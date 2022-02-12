@@ -7,8 +7,9 @@
 (function() {
 
   function updateStyleForSamsung() {   
-    if (navigator.userAgent.match(/SAMSUNG|Samsung|SGH-[I|N|T]|GT-[I|N]|SM-[A|N|P|T|Z]|SHV-E|SCH-[I|J|R|S]|SPH-L/i)) {
-      
+    if (navigator.userAgent.match(/SamsungBrowser/i)) {
+        //navigator.userAgent.match(/SAMSUNG|Samsung|SGH-[I|N|T]|GT-[I|N]|SM-[A|N|P|T|Z]|SHV-E|SCH-[I|J|R|S]|SPH-L/i)
+        
       // Check dark mode
       let isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
