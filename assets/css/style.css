@@ -46,6 +46,45 @@
     }
 }
 
+
+/*--------------------------------------------------------------
+# Live Chat
+--------------------------------------------------------------*/
+
+/* for desktop */
+.chat-text_float {
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	left:40px;
+	background-color:#0099ff;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+        font-size:36px;
+	box-shadow: 2px 2px 3px #999;
+        z-index:100;
+}
+
+.chat-text-icon {
+	margin-top:16px;
+}
+/* for mobile */
+@media screen and (max-width: 767px){
+     .chat-text-icon {
+	 margin-top:10px;
+     }
+    .chat-text_float {
+        width: 40px;
+        height: 40px;
+        bottom: 20px;
+        left: 10px;
+        font-size: 22px;
+    }
+}
+
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -89,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
   background: linear-gradient(45deg, #1de099, #1dc8cd);
   color: #fff;
   border-radius: 4px 4px 0 0;
-  right: 15px;
+   right: 15px; 
   bottom: 0;
   transition: none;
   visibility: hidden;

@@ -21,10 +21,10 @@
         var footerLogo = document.getElementById('footer-logo');
         footerLogo.src = "assets/img/footer-logo-dark-mode.png";
         
-        alert('Dark Mode');
+        //alert('Dark Mode');
 
       } else {
-        alert('Light Mode');
+        //alert('Light Mode');
       }
     }
   }
