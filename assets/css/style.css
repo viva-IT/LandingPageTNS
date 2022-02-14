@@ -1152,6 +1152,8 @@ section {
 }
 #contact .info {
   color: #333333;
+  padding-left: 50px;
+  padding-top: 20px;
 }
 #contact .info i {
   font-size: 32px;

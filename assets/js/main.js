@@ -29,9 +29,11 @@
     }
   }
 
+  /*
   window.onload = function() {
     updateStyleForSamsung();
   };
+  */
 
   "use strict";
 
