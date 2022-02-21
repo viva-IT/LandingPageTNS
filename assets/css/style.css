@@ -913,6 +913,11 @@ section {
   background: #fff;
   text-align: center;
 }
+#pricing .box:hover {
+  box-shadow: 3px 3px 50px #ccc;
+  transform: scale(1.06);
+  /*transform: translateY(-10px);*/
+}
 #pricing h3 {
   font-weight: 400;
   margin-bottom: 15px;
