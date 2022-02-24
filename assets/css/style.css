@@ -933,7 +933,7 @@ section {
   top: -20px;
 }
 #pricing h4 span {
-  color: #bababa;
+  color: #979797;
   font-size: 20px;
 }
 #pricing ul {
@@ -952,21 +952,26 @@ section {
   padding-right: 4px;
 }
 #pricing .get-started-btn {
-  background: #515e61;
+  /*background: #515e61;*/
+  background: linear-gradient(180deg, #515e61c2, #363f41);
   display: inline-block;
   padding: 6px 30px;
   border-radius: 20px;
   color: #fff;
   transition: none;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
   font-family: "Montserrat", sans-serif;
+}
+#pricing .button-gold {
+  margin-top: 12px;
 }
 #pricing .featured {
   border: 2px solid #1dc8cd;
 }
 #pricing .featured .get-started-btn {
-  background: linear-gradient(45deg, #1de099, #1dc8cd);
+  /*background: linear-gradient(45deg, #1de099, #1dc8cd);*/ 
+  background: linear-gradient(180deg, #ff0000, #8b0404);
 }
 
 /* Frequently Asked Questions Section
