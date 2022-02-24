@@ -953,7 +953,8 @@ section {
 }
 #pricing .get-started-btn {
   /*background: #515e61;*/
-  background: linear-gradient(180deg, #515e61c2, #363f41);
+  /*background: linear-gradient(180deg, #72848859, #363f41bb);*/
+  background: linear-gradient(180deg, #1dc7cd9c, #179fa3);
   display: inline-block;
   padding: 6px 30px;
   border-radius: 20px;
