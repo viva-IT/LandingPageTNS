@@ -207,6 +207,9 @@
     })
   });
 
+   /**
+   * Royal Slider Gallery
+   */
   jQuery(document).ready(function($) {
     $('#gallery-1').royalSlider({
       fullscreen: {
@@ -215,7 +218,56 @@
       },
       controlNavigation: 'thumbnails',
       autoScaleSlider: true, 
-      autoScaleSliderWidth: 960,     
+      autoScaleSliderWidth: 900,     
+      autoScaleSliderHeight: 850,
+      loop: false,
+      numImagesToPreload:4,
+      arrowsNavAutohide: true,
+      arrowsNavHideOnTouch: true,
+      keyboardNavEnabled: true
+    });
+
+    $('#gallery-2').royalSlider({
+      fullscreen: {
+        enabled: true,
+        nativeFS: true
+      },
+      controlNavigation: 'thumbnails',
+      autoScaleSlider: true, 
+      autoScaleSliderWidth: 900,     
+      autoScaleSliderHeight: 850,
+      loop: false,
+      numImagesToPreload:4,
+      arrowsNavAutohide: true,
+      arrowsNavHideOnTouch: true,
+      keyboardNavEnabled: true
+    });
+
+    $('#gallery-3').royalSlider({
+      fullscreen: {
+        enabled: true,
+        nativeFS: true
+      },
+      controlNavigation: 'thumbnails',
+      autoScaleSlider: true, 
+      autoScaleSliderWidth: 900,     
+      autoScaleSliderHeight: 850,
+      loop: false,
+      numImagesToPreload:4,
+      arrowsNavAutohide: true,
+      arrowsNavHideOnTouch: true,
+      keyboardNavEnabled: true
+    });
+
+    
+    $('#gallery-4').royalSlider({
+      fullscreen: {
+        enabled: true,
+        nativeFS: true
+      },
+      controlNavigation: 'thumbnails',
+      autoScaleSlider: true, 
+      autoScaleSliderWidth: 900,     
       autoScaleSliderHeight: 850,
       loop: false,
       numImagesToPreload:4,
