@@ -990,7 +990,7 @@ section {
   font-family: "Montserrat", sans-serif;
 }
 #pricing .button-gold {
-  margin-top: 12px;
+  margin-top: 3px;
 }
 #pricing .featured {
   border: 2px solid #1dc8cd;
@@ -1304,4 +1304,31 @@ section {
 }
 #footer .footer-links a:hover {
   color: #1dc8cd;
+}
+
+#footer {
+  background: #fff;
+  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+  padding: 40px 0px 20px;
+  color: #333;
+  font-size: 14px;
+}
+
+
+
+.whatsapp-icon {
+	margin-top:16px;
+}
+/* for mobile */
+@media screen and (max-width: 767px){
+     .whatsapp-icon {
+	 margin-top:10px;
+     }
+    .whatsapp_float {
+        width: 40px;
+        height: 40px;
+        bottom: 20px;
+        right: 10px;
+        font-size: 22px;
+    }
 }
