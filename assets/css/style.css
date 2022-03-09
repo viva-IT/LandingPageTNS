@@ -1314,7 +1314,18 @@ section {
   font-size: 14px;
 }
 
-
+/*
+#footerVilla {
+  background: #fff;
+  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+  padding: 40px 0px 20px;
+  color: #333;
+  font-size: 14px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+*/
 
 .whatsapp-icon {
 	margin-top:16px;
