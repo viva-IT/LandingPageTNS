@@ -932,7 +932,7 @@ section {
   overflow: hidden;
 }
 #pricing .box {
-  padding: 40px;
+  padding: 35px;
   margin-bottom: 30px;
   box-shadow: 0px 0px 30px rgba(73, 78, 92, 0.15);
   background: #fff;
@@ -990,7 +990,7 @@ section {
   font-family: "Montserrat", sans-serif;
 }
 #pricing .button-gold {
-  margin-top: 15px;
+  margin-top: 41px;
 }
 #pricing .featured {
   border: 2px solid #1dc8cd;
