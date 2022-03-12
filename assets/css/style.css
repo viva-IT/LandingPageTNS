@@ -134,6 +134,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -423,6 +424,7 @@ h1, h2, h3, h4, h5, h6 {
   background: linear-gradient(45deg, rgba(29, 224, 153, 0.9), rgba(29, 200, 205, 0.9)), url("../img/hero-bg.jpg") center top no-repeat;
   background-size: cover;
   position: relative;
+  animation: blink 1s infinite;
 }
 @media (min-width: 1025px) {
   #hero {
@@ -445,6 +447,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
   text-align: center;
   flex-direction: column;
+  animation: blink 1s infinite;
 }
 #hero h2 {
   margin: 30px 0 10px 0;
@@ -483,12 +486,12 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #fff;
-  color: #fff;
+  border: 2px solid rgb(255, 1, 1);
+  color: rgb(199, 3, 3);
 }
 #hero .btn-get-started:hover {
-  color: #1dc8cd;
-  background: #fff;
+  color: rgb(199, 3, 3);
+  background: rgb(255, 255, 255);
 }
 #hero .product-screens {
   position: absolute;
@@ -542,6 +545,28 @@ h1, h2, h3, h4, h5, h6 {
   }
   #hero .product-screens .product-screen-2, #hero .product-screens .product-screen-3 {
     display: none;
+  }
+}
+
+.blink {
+  animation: blinks 1s infinite;
+}
+
+@keyframes blinks {
+  0% {
+    opacity: 1;
+  }
+  25% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  75% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
   }
 }
 
@@ -691,7 +716,7 @@ section {
 /* Product Featuress Section
 --------------------------------*/
 #features {
-  background: #fff;
+  /*background: #fff;*/
   padding: 60px 0 0 0;
   overflow: hidden;
 }
@@ -925,6 +950,16 @@ section {
   opacity: 1;
 }
 
+
+/* Promo Section
+--------------------------------*/
+#promo {
+  padding: 60px 0 60px 0;
+  overflow: hidden;
+}
+
+
+
 /* Pricing Section
 --------------------------------*/
 #pricing {
@@ -999,6 +1034,7 @@ section {
   /*background: linear-gradient(45deg, #1de099, #1dc8cd);*/ 
   background: linear-gradient(180deg, #ff0000, #8b0404);
 }
+
 
 /* Frequently Asked Questions Section
 --------------------------------*/
