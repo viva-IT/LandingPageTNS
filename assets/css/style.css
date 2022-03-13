@@ -486,12 +486,13 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid rgb(255, 1, 1);
-  color: rgb(199, 3, 3);
+  border: 2px solid rgb(240, 0, 0);
+  color: rgb(255, 0, 0);
 }
 #hero .btn-get-started:hover {
-  color: rgb(199, 3, 3);
-  background: rgb(255, 255, 255);
+  color: rgb(255, 0, 0);
+  background: rgba(255, 255, 255, 0.541);
+  transform: scale(1.05);
 }
 #hero .product-screens {
   position: absolute;
@@ -960,7 +961,22 @@ section {
 .line-gap {
   margin-bottom: 10px;
 }
-
+#promo .btn-join {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 20px;
+  transition: 0.5s;
+  margin: 10px;
+  border: 2px solid rgb(236, 0, 0);
+  color: rgb(255, 0, 0);
+}
+#promo .btn-join:hover {
+  transform: scale(1.05);
+}
 
 
 /* Pricing Section
