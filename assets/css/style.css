@@ -957,6 +957,9 @@ section {
   padding: 60px 0 60px 0;
   overflow: hidden;
 }
+.line-gap {
+  margin-bottom: 10px;
+}
 
 
 
