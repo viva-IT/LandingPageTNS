@@ -2,92 +2,15 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
   <title>travelo n Stay&reg; - Rare Angon Villas</title>
   <meta content="Halaman detil dari Villa Rare Angon" name="description">
   <meta
     content="travelonstay, travel, goodview, hiddengems, wonderfulindonesia, visitindonesia, pariwisataindonesia, yourpartner, yourtravelpartner, travelcommunity, travelstory, travelblogger, travelblog, beautifuldestinations, jalanjalan, jalanjalanmurah, jalanjalanseru, travelindonesiamurah, bahagia, itu, harus, rareangon"
     name="keywords">
 
-  <!--JQuery-->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
-    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700|Open+Sans:300,300i,400,400i,700,700i"
-    rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/royalslider/css/royalslider.css" rel="stylesheet">
-  <link href="assets/vendor/royalslider/css/skins/default/rs-default.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Avilon - v4.6.1
-  * Template URL: https://bootstrapmade.com/avilon-bootstrap-landing-page-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-
-  <!-- Floating WhatsApp and Live Chat icon on footer CSS File-->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-
-</head>
-
-<body>
-
-  <!-- Floating WhatsApp icon on footer -->
-  <a href="http://wa.me/6287878317751?text=Helo,%20saya%20tertarik%20dengan%20travelo%20n%20Stay.%20Mohon%20penjelasan%20lebih%20lanjut."
-    class="whatsapp_float" target="_blank"><i class="fa fa-whatsapp whatsapp-icon"></i></a>
-
-  <!-- Floating Live Chat icon on footer -->
-  <a href="https://help.travelonstay.com" class="chat-text_float" target="_blank"><i
-      class="bi bi-chat-text chat-text-icon"></i></a>
-
-
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center header-transparent">
-    <div class="container d-flex justify-content-between align-items-center">
-
-      <div id="logo">
-        <a href="index.html"><img src="assets/img/logo.png" width="70%" height="70%" alt=""></a>
-      </div>
-
-      <nav id="navbar" class="navbar">
-        <ul>
-          <li><a class="nav-link scrollto" href="index.html#hero">Beranda</a></li>
-          <li><a class="nav-link scrollto" href="index.html#about">Tentang Kita</a></li>
-          <li><a class="nav-link scrollto" href="index.html#features">Keuntungan</a></li>
-          <li><a class="nav-link scrollto" href="index.html#pricing">Paket Wisata</a></li>
-          <li><a class="nav-link scrollto" href="index.html#call-to-action">Hubungi Kami</a></li>
-          <li><a class="nav-link scrollto" href="index.html#faq">FAQ</a></li>
-          <li><a class="nav-link scrollto" href="caraBooking.html">Cara Booking</a></li>
-          <li class="dropdown"><a href="index.html#"><span>Villa</span> <i class="bi bi-chevron-down active"></i></a>
-            <ul>
-              <li><a href="villa-GiliAirLagoonResort.html">Gili Air Lagoon Resort</a></li>
-              <li><a href="villa-LeNixsunVillas.html">Le Nixsun Villas</a></li>
-              <li><a href="villa-NewGardenViewResort.html">New Garden View Resort</a></li>
-              <li><a href="villa-NewPondokSaraVillas.html">New Pondok Sara Villas</a></li>
-              <li><a href="villa-RareAngonVillas.html">Rare Angon Villas</a></li>
-            </ul>
-          </li>
-          <li><a class="nav-link scrollto" href="index.html#contact">Kontak</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-    </div>
-  </header><!-- End Header -->
+  <?php
+   include_once 'header.php';
+  ?>
 
   <!-- ======= Main Section ======= -->
   <main id="main">
@@ -426,7 +349,7 @@
 
       <br/>
 
-      <p>Fasilitas Villa</p>
+      <p>Fasilitas:</p>
 
       <div class="royalSlider rsDefault fwImage col span_4">
         <a class="rsImg" data-rsdelay="1000"
