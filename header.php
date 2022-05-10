@@ -57,11 +57,15 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="index.php#hero">Beranda</a></li>
-          <li><a class="nav-link scrollto" href="index.php#about">Tentang Kita</a></li>
+          <li class="dropdown"><a href="#"><span>Tentang Kita</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a class="nav-link scrollto" href="index.php#about">Tentang travelo n Stay</a></li>
+              <li><a class="nav-link scrollto" href="index.php#faq">FAQ</a></li>
+              <li><a class="nav-link scrollto" href="index.php#call-to-action">Hubungi Kami</a></li>
+              <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
+            </ul>
           <li><a class="nav-link scrollto" href="index.php#features">Keuntungan</a></li>
           <li><a class="nav-link scrollto" href="index.php#pricing">Paket Wisata</a></li>          
-          <li><a class="nav-link scrollto" href="index.php#call-to-action">Hubungi Kami</a></li>
-          <li><a class="nav-link scrollto" href="index.php#faq">FAQ</a></li>
           <li><a class="nav-link scrollto" href="caraBooking.php">Cara Booking</a></li>
           <li class="dropdown"><a href="#"><span>Villa</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -72,7 +76,6 @@
               <li><a href="villa-RareAngonVillas.php">Rare Angon Villas</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
           <li><a class="nav-link" target="_blank" href="https://my.travelonstay.com/signup">Daftar</a></li>
           <li><a class="nav-link" target="_blank" href="https://my.travelonstay.com">Masuk</a></li>
         </ul>

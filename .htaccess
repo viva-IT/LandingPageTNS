@@ -63,4 +63,10 @@ Header set X-Robots-Tag "noindex, nofollow"
 </IfModule>
 RewriteCond %{HTTP_HOST} ^page\.travelonstay\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.page\.travelonstay\.com$
-RewriteRule ^/?$ "https\:\/\/travelonstay\.com\/" [R=301,L]
+RewriteRule ^(.*)$ "https\:\/\/travelonstay\.com\/$1" [R=301,L]
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^travelonstay\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.travelonstay\.com$
+RewriteRule ^(.*)$ "https\:\/\/travelonstay\.com\/$1" [R=301,L]
+
