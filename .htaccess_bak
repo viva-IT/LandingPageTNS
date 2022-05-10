@@ -1,10 +1,25 @@
+# This is a sample with suggested security and performance options
+
 <IfModule mod_rewrite.c>
-    RewriteEngine On
-    RewriteBase /
-    RewriteRule ^index.php$ - [L]
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule . /index.php [L]
+Options +SymLinksIfOwnerMatch
+RewriteEngine On
+RewriteCond %{HTTPS} on
+RewriteRule (.*) http://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+RewriteRule ^favicon\.ico$ skins/larry/images/favicon.ico
+RewriteBase /
+RewriteRule ^index.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
+
+# security rules:
+# - deny access to files not containing a dot or starting with a dot
+#   in all locations except installer directory
+RewriteRule ^(?!installer|\.well-known\/|[a-zA-Z0-9]{16})(\.?[^\.]+)$ - [F]
+# - deny access to some locations
+RewriteRule ^/?(\.git|\.tx|SQL|bin|config|logs|temp|tests|vendor|program\/(include|lib|localization|steps)) - [F]
+# - deny access to some documentation files
+RewriteRule /?(README.*|CHANGELOG.*|SECURITY.*|meta\.json|composer\..*|jsdeps.json)$ - [F]
 </IfModule>
 
 <IfModule mod_deflate.c>
