@@ -138,8 +138,8 @@
       </div>
     </section>
 
-    <!-- ======= Promo ======= -->
-    <section id="promo">
+    <!-- ======= Promo (Pre-launching)======= -->
+    <!--<section id="promo">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
@@ -156,6 +156,25 @@
           <div class="bi bi-check-circle line-gap">  Doorprize menarik bagi mereka yang bergabung</div>
           <br>&nbsp;</br>
           <div><a href="http://menu.travelonstay.com" class="btn-join" target="_blank"> Join Now !</a></div>
+        </div>
+
+      </div>
+    </section><-- End Promo Section -->
+
+
+    <!-- ======= Promo (BOM)======= -->
+    <section id="promo">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h3 class="section-title">Business Opportunity Meeting</h3>
+          <span class="section-divider"></span>
+        </div>
+
+        <div class="row text-center">
+          <div>Hadirilah BOM (Business Opportunity Meeting) kita untuk mendapatkan benefit menarik !</div>
+          <br>&nbsp;</br>
+          <div><a href="https://forms.gle/comf8MqLJa8EFXQr6" class="btn-join" target="_blank"> Join Now !</a></div>
         </div>
 
       </div>
