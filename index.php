@@ -205,15 +205,9 @@
                 <li><i class="bi bi-check-circle"></i> Villa 1 kamar</li>
                 <li><i class="bi bi-arrow-return-right"></i> Include breakfast</li>
                 <li><i class="bi bi-house"></i> Rp 1.500k harga villa max</li>
-                <li><i class="bi bi-plus"></i> Rp 450k Cashback</li>
-                <li><i class="bi bi-plus"></i> Rp 50k Voucher Transport</li>
-                <li><i class="bi bi-plus"></i> Rp 120k Voucher Durian</li>
                 <li><i class="bi bi-plus"></i> Rp 300k Airport Shuttle</li>
-                
-                <li><i class="bi bi-three-dots"></i><a style="color: rgb(12, 0, 179);"> Rp 5.420k Total Worth!</a></li>
               </ul>
-              <br>&nbsp;</br>
-              <div class="get-started-btn button-gold">Hemat: Rp 2.420k</div>
+              <div class="get-started-btn button-gold">Hemat: Rp 1.800k</div>
             </div>
           </div>
 
@@ -224,21 +218,14 @@
               <h4><sup>Rp</sup> 5<span> juta</span></h4>
               <ul>
                 <li><i class="bi bi-check-circle"></i> Stay 3 malam (Weekend)</li>
-                <li><i class="bi bi-check-circle"></i> Kapasitas max 4 orang</li>
-                <li><i class="bi bi-arrow-return-right"></i> 2 dewasa dan 2 anak</li>
-                <li><i class="bi bi-check-circle"></i> Villa 2 kamar</li>
+                <li><i class="bi bi-check-circle"></i> Kapasitas max 2 orang</li>
+                <li><i class="bi bi-arrow-return-right"></i> 2 dewasa</li>
+                <li><i class="bi bi-check-circle"></i> Villa 1 kamar</li>
                 <li><i class="bi bi-arrow-return-right"></i> Include breakfast</li>
                 <li><i class="bi bi-house"></i> Rp 2.500k harga villa max</li>
-                <li><i class="bi bi-plus"></i> Rp 450k Cashback</li>
-                <li><i class="bi bi-plus"></i> Rp 150k Voucher Kuliner</li>
-                <li><i class="bi bi-plus"></i> Rp 100k Voucher Rekreasi</li>
-                <li><i class="bi bi-plus"></i> Rp 200k Voucher Transport</li>
-                <li><i class="bi bi-plus"></i> Rp 240k Voucher Durian</li>
                 <li><i class="bi bi-plus"></i> Rp 300k Airport Shuttle</li>
-                
-                <li><i class="bi bi-three-dots"></i><a style="color: rgb(12, 0, 179);"> Rp 8.940k Total Worth!</a></li>
               </ul>
-              <div class="get-started-btn">Hemat: Rp 3.940k</div>
+              <div class="get-started-btn">Hemat: Rp 2.800k</div>
             </div>
           </div>
 
@@ -249,21 +236,14 @@
               <h4><sup>Rp</sup> 7<span> juta</span></h4>
               <ul>
                 <li><i class="bi bi-check-circle"></i> Stay 3 malam kapan saja</li>
-                <li><i class="bi bi-check-circle"></i> Kapasitas max 6 orang</li>
-                <li><i class="bi bi-arrow-return-right"></i> 4 dewasa dan 2 anak</li>
-                <li><i class="bi bi-check-circle"></i> Villa 2-3 kamar</li>
+                <li><i class="bi bi-check-circle"></i> Kapasitas max 4 orang</li>
+                <li><i class="bi bi-arrow-return-right"></i> 2 dewasa dan 2 anak</li>
+                <li><i class="bi bi-check-circle"></i> Villa 2 kamar</li>
                 <li><i class="bi bi-arrow-return-right"></i> Include breakfast</li>
-                <li><i class="bi bi-house"></i> Rp 3.200k harga villa max</li>
-                <li><i class="bi bi-plus"></i> Rp 450k Cashback</li>
-                <li><i class="bi bi-plus"></i> Rp 300k Voucher Kuliner</li>
-                <li><i class="bi bi-plus"></i> Rp 200k Voucher Rekreasi</li>
-                <li><i class="bi bi-plus"></i> Rp 350k Voucher Transport</li>
-                <li><i class="bi bi-plus"></i> Rp 360k Voucher Durian</li>
+                <li><i class="bi bi-house"></i> Rp 3.500k harga villa max</li>
                 <li><i class="bi bi-plus"></i> Rp 300k Airport Shuttle</li>
-                
-                <li><i class="bi bi-three-dots"></i><a style="color: rgb(12, 0, 179);"> Rp 11.560k Total Worth!</a></li>
               </ul>
-              <div class="get-started-btn">Hemat: Rp 4.560k</div>
+              <div class="get-started-btn">Hemat: Rp 3.800k</div>
             </div>
           </div>
 
@@ -274,37 +254,33 @@
               <h4><sup>Rp</sup> 9<span> juta</span></h4>
               <ul>
                 <li><i class="bi bi-check-circle"></i> Stay 3 malam kapan saja</li>
-                <li><i class="bi bi-check-circle"></i> Kapasitas max 6 orang</li>
-                <li><i class="bi bi-arrow-return-right"></i> 4 dewasa dan 2 anak</li>
-                <li><i class="bi bi-check-circle"></i> Villa 2-3 kamar</li>
+                <li><i class="bi bi-check-circle"></i> Kapasitas max 4 orang</li>
+                <li><i class="bi bi-arrow-return-right"></i> 2 dewasa dan 2 anak</li>
+                <li><i class="bi bi-check-circle"></i> Villa 2 kamar</li>
                 <li><i class="bi bi-arrow-return-right"></i> Include breakfast</li>
-                <li><i class="bi bi-house"></i> Rp 4.000k harga villa max</li>
-                <li><i class="bi bi-plus"></i> Rp 450k Cashback</li>
-                <li><i class="bi bi-plus"></i> Rp 400k Voucher Kuliner</li>
-                <li><i class="bi bi-plus"></i> Rp 300k Voucher Rekreasi</li>
-                <li><i class="bi bi-plus"></i> Rp 450k Voucher Transport</li>
-                <li><i class="bi bi-plus"></i> Rp 480k Voucher Durian</li>
+                <li><i class="bi bi-house"></i> Rp 4.500k harga villa max</li>
                 <li><i class="bi bi-plus"></i> Rp 300k Airport Shuttle</li>
-
-                <li><i class="bi bi-three-dots"></i><a style="color: rgb(12, 0, 179);"> Rp 14.380k Total Worth!</a></li>
               </ul>
-              <div class="get-started-btn">Hemat: Rp 5.380k</div>
+              <div class="get-started-btn">Hemat: Rp 4.800k</div>
             </div>
           </div>
 
         </div>
       </div>
     </section><!-- End Pricing Section -->
-
-    <br>
-    <div class="text-center">*Voucher digital / E-Voucher dapat diuangkan (T&C apply), kecuali:</div>                         
-    <div class="text-center">Voucher Makan Durian dan Voucher airport shuttle</div>
-  </br>
+  
+  <br>               
+    <div class="text-center">*Dapatkan Voucher Makan Durian (hanya selama bulan Juni)</div>
+    <div class="text-center">Silver = Rp 100k</div>
+    <div class="text-center">Gold = Rp 200k</div>
+    <div class="text-center">Platinum = Rp 300k</div>
+    <div class="text-center">Ruby = Rp 400k</div>
+    <div class="text-center">&nbsp;</div>
     <div class="text-center">*Informasi Voucher:</div>
-    <div class="text-center">- Voucher Transport  digunakan untuk area Seminyak, Sanur dan Denpasar.</div>
+    <div class="text-center">- Voucher airport shuttle dapat diuangkan (T&C apply).</div>
+    <div class="text-center">- Voucher Transport digunakan untuk area Seminyak, Sanur dan Denpasar.</div>
     <div class="text-center">- Voucher Makan Durian berlaku selama 1 tahun.</div>
-    <br>
-
+  </br>
     <!-- ======= Call To Action Section ======= -->
         <section id="call-to-action">
           <div class="container">
