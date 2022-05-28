@@ -336,7 +336,7 @@
               saya membeli paket Silver? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq3" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Fasilitas akomodasi anda berlaku untuk 2 dewasa dan 2 orang anak dibawah usia 6 tahun.
+                Fasilitas akomodasi anda berlaku untuk 2 dewasa dan 1 orang anak dibawah usia 6 tahun.
               </p>
             </div>
           </li>
@@ -397,8 +397,8 @@
               </br>(2) 1 minggu (7 hari) sebelum hari reservasi perjalanan, anda akan dikenakan biaya administrasi dan 
               denda dengan total senilai 75% dari paket yang telah anda beli atau pakai. Anda akan menerima 
               pengembalian dana sebesar 25% dari nilai paket yang telah anda miliki atau pakai.
-            </br>(3) 2 hari sebelum hari reservasi perjalanan, kami sangat menyayangkan karena sistem akan membatalkan rencana perjalanan 
-            anda dan paket yang telah anda beli atau pakai telah hilang.
+            </br>(3) 2 hari sebelum hari reservasi perjalanan, anda tidak dapat melakukan refund sehingga 
+            paket yang telah anda beli telah hilang.
               </p>
             </div>
           </li>
