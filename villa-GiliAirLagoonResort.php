@@ -25,7 +25,7 @@
 
     <div class="container">
       <p><a style="color: rgb(15, 161, 113); font-size: large;">Alamat:&nbsp;&nbsp;&nbsp;</a>
-        Gili Air Island, Gili Air, West Lombok Regency, Lombok 83125, Indonesia</p>
+        Jl. Gili Air, Gili Island, West Lombok Regency, Lombok 83125 </p>
 
       <p>Lagoon Villa (menghadap ke gunung, kebun, laut dan jalan) </p>
 

@@ -27,6 +27,7 @@
       <p><a style="color: rgb(15, 161, 113); font-size: large;">Alamat:&nbsp;&nbsp;&nbsp;</a>
         Jalan Raya Uluwatu, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361</p>
 
+      <!-- ======= Gallery Section ======= -->
       <div class="accordion" id="accordionExample">
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingOne">
@@ -186,7 +187,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> <!-- ======= Gallery Section ======= -->
 
       <br />
     </div><!-- end Container -->
