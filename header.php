@@ -62,18 +62,27 @@
               <li><a class="nav-link scrollto" href="index.php#about">Tentang travelo n Stay</a></li>
               <li><a class="nav-link scrollto" href="index.php#faq">FAQ</a></li>
               <li><a class="nav-link scrollto" href="index.php#call-to-action">Hubungi Kami</a></li>
-              <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
+              <li><a class="nav-link scrollto" href="index.php#contact">Kontak</a></li>
             </ul>
           <li><a class="nav-link scrollto" href="index.php#features">Keuntungan</a></li>
           <li><a class="nav-link scrollto" href="index.php#pricing">Paket Wisata</a></li>          
           <li><a class="nav-link scrollto" href="caraBooking.php">Cara Booking</a></li>
           <li class="dropdown"><a href="#"><span>Villa</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
+              <li><a href="villa-AsriSariUbud.php">Asri Sari Ubud</a></li>
               <li><a href="villa-GiliAirLagoonResort.php">Gili Air Lagoon Resort</a></li>
+              <li><a href="villa-KubalVillaSeminyak.php">Kubal Villa Seminyak</a></li>
+              <li><a href="villa-KubuBaliSuiteSeminyak.php">Kubu Bali Suite Seminyak</a></li>
+              <li><a href="villa-KusumaLivingAndVillas.php">Kusuma Living and Villas</a></li>
               <li><a href="villa-LeNixsunVillas.php">Le Nixsun Villas</a></li>
               <li><a href="villa-NewGardenViewResort.php">New Garden View Resort</a></li>
               <li><a href="villa-NewPondokSaraVillas.php">New Pondok Sara Villas</a></li>
+              <li><a href="villa-PondokBoboSeminyak.php">Pondok Bobo Seminyak</a></li>
               <li><a href="villa-RareAngonVillas.php">Rare Angon Villas</a></li>
+              <li><a href="villa-TheCandaLiving.php">The Canda Living</a></li>
+              <li><a href="villa-TheDewiKintamani.php">The Dewi Kintamani</a></li>
+              <li><a href="villa-TheDewiPremier.php">The Dewi Premier</a></li>
+              <li><a href="villa-TheDewiSunSunSuite.php">The Dewi Sun Sun Suite</a></li>
             </ul>
           </li>
           <li><a class="nav-link" target="_blank" href="https://my.travelonstay.com/signup">Daftar</a></li>
