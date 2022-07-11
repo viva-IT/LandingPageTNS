@@ -217,7 +217,7 @@
               <a style="color: brown;"><s>Rp 6 juta</s></a>
               <h4><sup>Rp</sup> 5<span> juta</span></h4>
               <ul>
-                <li><i class="bi bi-check-circle"></i> Stay 3 malam (Weekend)</li>
+                <li><i class="bi bi-check-circle"></i> Stay 2 malam (Weekend)</li>
                 <li><i class="bi bi-check-circle"></i> Kapasitas max 2 orang</li>
                 <li><i class="bi bi-arrow-return-right"></i> 2 dewasa</li>
                 <li><i class="bi bi-check-circle"></i> Villa 1 kamar</li>
