@@ -353,9 +353,9 @@
 
       <div class="royalSlider rsDefault fwImage col span_4">
         <a class="rsImg" data-rsdelay="1000"
-          data-rsbigimg="assets/img/list-villa/Rare-Angon-Villas/Fasilitas-Villas/Bar.JPG"
-          href="assets/img/list-villa/Rare-Angon-Villas/Fasilitas-Villas/Bar.JPG"><img class="rsTmb"
-            src="assets/img/list-villa/Rare-Angon-Villas/Fasilitas-Villas/t/Bar.JPG" width="96"
+          data-rsbigimg="assets/img/list-villa/Rare-Angon-Villas/Fasilitas-Villas/Bar.jpg"
+          href="assets/img/list-villa/Rare-Angon-Villas/Fasilitas-Villas/Bar.jpg"><img class="rsTmb"
+            src="assets/img/list-villa/Rare-Angon-Villas/Fasilitas-Villas/t/Bar.jpg" width="96"
             height="72"></a>
         <a class="rsImg" data-rsdelay="1000" data-rsbigimg="assets/img/list-villa/Rare-Angon-Villas/Fasilitas-Villas/Swimming-Pool.jpg"
           href="assets/img/list-villa/Rare-Angon-Villas/Fasilitas-Villas/Swimming-Pool.jpg"><img class="rsTmb"

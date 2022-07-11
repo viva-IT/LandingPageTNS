@@ -147,9 +147,9 @@
 
       <div class="royalSlider rsDefault fwImage col span_4">
         <a class="rsImg" data-rsdelay="1000"
-          data-rsbigimg="assets/img/list-villa/The-Dewi-Premier/Fasilitas/1.JPG"
-          href="assets/img/list-villa/The-Dewi-Premier/Fasilitas/1.JPG"><img class="rsTmb"
-            src="assets/img/list-villa/The-Dewi-Premier/Fasilitas/t/1.JPG" width="96"
+          data-rsbigimg="assets/img/list-villa/The-Dewi-Premier/Fasilitas/1.jpg"
+          href="assets/img/list-villa/The-Dewi-Premier/Fasilitas/1.jpg"><img class="rsTmb"
+            src="assets/img/list-villa/The-Dewi-Premier/Fasilitas/t/1.jpg" width="96"
             height="72"></a>
         <a class="rsImg" data-rsdelay="1000" data-rsbigimg="assets/img/list-villa/The-Dewi-Premier/Fasilitas/2.jpg"
           href="assets/img/list-villa/The-Dewi-Premier/Fasilitas/2.jpg"><img class="rsTmb"

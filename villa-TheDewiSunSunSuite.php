@@ -162,9 +162,9 @@
 
       <div class="royalSlider rsDefault fwImage col span_4">
         <a class="rsImg" data-rsdelay="1000"
-          data-rsbigimg="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/1.JPG"
-          href="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/1.JPG"><img class="rsTmb"
-            src="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/t/1.JPG" width="96"
+          data-rsbigimg="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/1.jpg"
+          href="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/1.jpg"><img class="rsTmb"
+            src="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/t/1.jpg" width="96"
             height="72"></a>
         <a class="rsImg" data-rsdelay="1000" data-rsbigimg="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/2.jpg"
           href="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/2.jpg"><img class="rsTmb"
@@ -177,10 +177,6 @@
         <a class="rsImg" data-rsdelay="1000" data-rsbigimg="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/4.jpg"
           href="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/4.jpg"><img class="rsTmb"
             src="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/t/4.jpg" width="96" height="72"></a>
-        <a class="rsImg" data-rsdelay="1000"
-          data-rsbigimg="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/5.jpg"
-          href="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/5.jpg"><img class="rsTmb"
-            src="assets/img/list-villa/The-Dewi-Sun-Sun-Suite/Fasilitas/t/5.jpg" width="96" height="72"></a>
       </div><!-- ======= Gallery Section ======= -->
 
     </div><!-- end Container -->
